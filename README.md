@@ -4,3 +4,5 @@ This repository contains the nodejs-goof vulnerable application used for Jenkins
 
 Original project:
 https://github.com/snyk-labs/nodejs-goof
+
+Automatic Jenkins trigger resubmission demo
