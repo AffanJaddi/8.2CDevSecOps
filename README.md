@@ -7,3 +7,4 @@ https://github.com/snyk-labs/nodejs-goof
 
 Automatic Jenkins trigger resubmission demo
 Automatic SCM trigger verification
+Automatic SCM trigger
